@@ -2,7 +2,7 @@
 # Panorama appliance
 # ----------------------------------------------------------------------------
 panorama = {
-  hostname = "PAN-1"
+  hostname = "10.6.0.4"
   username = "panadmin"
   password = "my-panorama-password"
 }
