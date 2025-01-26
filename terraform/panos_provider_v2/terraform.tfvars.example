@@ -2,8 +2,8 @@
 # Panorama appliance
 # ----------------------------------------------------------------------------
 panorama = {
-  hostname = "panorama.example.io"
-  username = "my-panorama-username"
+  hostname = "PAN-1"
+  username = "panadmin"
   password = "my-panorama-password"
 }
 
